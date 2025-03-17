@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olivicegodwin467
+- 👋 Hi, I’m Twizerimana Olivier Cipher
 - 👀 I’m interested in machine learning and cyber security
-- 🌱 I’m currently learning webdevelopment
+- 🌱 Currently am learning social engineering 
 - 💞️ I’m looking to collaborate on new community
 - 📫 How to reach me : you can reach me through my social medias
 
